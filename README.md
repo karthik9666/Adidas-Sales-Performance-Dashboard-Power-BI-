@@ -87,19 +87,19 @@ Each page was designed for **clarity and business interpretation**, not just vis
 ## 🖼️ Dashboard Preview
 
 #### 🧩 Overview Page
-[Overview](./Images/Overview_Page.png)
+![Overview](./Images/Overview_Page.png)
 
 #### 📊 Sales Analysis
-[Sales Analysis](./Images/Sales_Analysis_Page.png)
+![Sales Analysis](./Images/Sales_Analysis_Page.png)
 
 #### 💰 Profit Analysis
-[Profit Analysis](./Images/Profit_Analysis_Page.png)
+![Profit Analysis](./Images/Profit_Analysis_Page.png)
 
 #### 📦 Orders Analysis
-[Orders Analysis](./Images/Orders_Analysis_Page.png)
+![Orders Analysis](./Images/Orders_Analysis_Page.png)
 
 #### 🏪 Retailer Performance & Forecast
-[Retailer Performance](./Images/Retailer_Performance_Page.png)
+![Retailer Performance](./Images/Retailer_Performance_Page.png)
 
 
 ---
